@@ -3,24 +3,6 @@ main: muqsit\worldstyler\WorldStyler
 api: 3.0.0
 version: 1.1
 
-commands:
-  /pos1:
-    permission: worldstyler.selection
-  /pos2:
-    permission: worldstyler.selection
-  /set:
-    permission: worldstyler.set
-  /replace:
-    permission: worldstyler.replace
-  /schem:
-    permission: worldstyler.schem
-  /copy:
-    permission: worldstyler.copy
-  /paste:
-    permission: worldstyler.paste
-  /stack:
-    permission: worldstyler.stack
-
 permissions:
   worldstyler:
     default: false
